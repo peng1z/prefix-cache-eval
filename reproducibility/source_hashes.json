@@ -1,0 +1,71 @@
+{
+  "wildchat": {
+    "shards": [
+      {
+        "file": "data/train-00000-of-00014.parquet",
+        "sha256": "abec2a13129db8c0e6a2d3a51ff12644873c748205a6fdf6551fbcb34430e51c"
+      },
+      {
+        "file": "data/train-00001-of-00014.parquet",
+        "sha256": "f10fa35bb52703baad5e3177d3382d63b855fce9e9d1b9ab1fe2f0e762464f2a"
+      },
+      {
+        "file": "data/train-00002-of-00014.parquet",
+        "sha256": "9a4912ec14c1012970f57b6710518dda17dbf6cdfb9b6e694880f5456b0b031f"
+      },
+      {
+        "file": "data/train-00003-of-00014.parquet",
+        "sha256": "3f2d50ee227e32848f6c4fdb0f8ea543b379b2219bec72be9446e232d3d2a670"
+      },
+      {
+        "file": "data/train-00004-of-00014.parquet",
+        "sha256": "08c7e0c31edc120606d67cfa82486471d82945a7a414761501ea44b1ab0cd804"
+      },
+      {
+        "file": "data/train-00005-of-00014.parquet",
+        "sha256": "1caab40d8d4f01d76d8e1fa03e80f31b2f4d8b8b4c47cb3aa0280f4467e04555"
+      },
+      {
+        "file": "data/train-00006-of-00014.parquet",
+        "sha256": "0bd2fff31c74feb6b44b0397b4e7ab6285dd69ccbe4cc8b5f19c42cdbf691303"
+      },
+      {
+        "file": "data/train-00007-of-00014.parquet",
+        "sha256": "f498ea6771be5bf00d259ec76bd9fba51ceaa99c76147a0bb95fd7fa1769b984"
+      },
+      {
+        "file": "data/train-00008-of-00014.parquet",
+        "sha256": "a69578183dde5de1aa94134da2d7c2d13f00d88a577ef91140a492fbbbf10792"
+      },
+      {
+        "file": "data/train-00009-of-00014.parquet",
+        "sha256": "d2eb8868323274c60c9fd5437eaf2159a08ac278598b1197bc20ac04c633648a"
+      },
+      {
+        "file": "data/train-00010-of-00014.parquet",
+        "sha256": "328b0d702d91ffd47e51aff2de56d74d0f2b874a31f2530f1948474a582f0467"
+      },
+      {
+        "file": "data/train-00011-of-00014.parquet",
+        "sha256": "a458b915aeab7a4a81bd18770f33c3ebb908c91e67d916db5525819c88dbe778"
+      },
+      {
+        "file": "data/train-00012-of-00014.parquet",
+        "sha256": "5353f1a829ac86de165c2fb537a30d7d756259dbe37a8a0fa6ec791321a37d6e"
+      },
+      {
+        "file": "data/train-00013-of-00014.parquet",
+        "sha256": "440be579bf012a6e98d179b8dd0bedd73634e5527f7000c067d19c88b5cefa6c"
+      }
+    ]
+  },
+  "oasst": {
+    "sha256": "bbfadf5ed1278ba2208c837fdcad865adf65f5df55d80abadab2745db13fcb5e"
+  },
+  "sharegpt": {
+    "sha256": "35f0e213ce091ed9b9af2a1f0755e9d39f9ccec34ab281cd4ca60d70f6479ba4"
+  },
+  "openorca": {
+    "sha256": "8d3f4a6e5980a5f163ca22be60336f8b47796d43836d984569f857ec56aadfd8"
+  }
+}

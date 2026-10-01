@@ -1,0 +1,42 @@
+{
+  "wildchat": {
+    "repo": "allenai/WildChat-1M",
+    "url": "https://huggingface.co/datasets/allenai/WildChat-1M",
+    "filename": "data/train-00000-of-00014.parquet",
+    "license": "ODC-BY",
+    "input_sha256": "fc1f5ead6f8d32d774564c623a528e53401f48e60c8b5926378e5dc8a6bea66e",
+    "source_revision": "not recorded; exact bytes identified by SHA-256",
+    "staging_seed": 20260826,
+    "staging_rate": 0.05
+  },
+  "oasst": {
+    "repo": "OpenAssistant/oasst1",
+    "url": "https://huggingface.co/datasets/OpenAssistant/oasst1",
+    "filename": "data/train-00000-of-00001-b42a775f407cee45.parquet",
+    "license": "Apache-2.0",
+    "input_sha256": "00fc0c80e7d12f17d2ff0cab070bdc20ac29b530115505556581e90e7b53060b",
+    "source_revision": "not recorded; exact bytes identified by SHA-256",
+    "staging_seed": 20260826,
+    "staging_rate": 1.0
+  },
+  "sharegpt": {
+    "repo": "anon8231489123/ShareGPT_Vicuna_unfiltered",
+    "url": "https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered",
+    "filename": "ShareGPT_V3_unfiltered_cleaned_split.json",
+    "license": "Apache-2.0 (dataset card declaration)",
+    "input_sha256": "5b7e0f038769222fb0167b74e0d0e7a82044b029bf6b2087763e3ef72cd3fd16",
+    "source_revision": "not recorded; exact bytes identified by SHA-256",
+    "staging_seed": 20260826,
+    "staging_rate": 1.0
+  },
+  "openorca": {
+    "repo": "Open-Orca/OpenOrca",
+    "url": "https://huggingface.co/datasets/Open-Orca/OpenOrca",
+    "filename": "1M-GPT4-Augmented.parquet",
+    "license": "MIT",
+    "input_sha256": "f2b7e6c9d39a44700ed317ea75b352bb64f8eedd3d9ede14b8a8c691084ec90c",
+    "source_revision": "not recorded; exact bytes identified by SHA-256",
+    "staging_seed": 20260826,
+    "staging_rate": 0.05
+  }
+}
